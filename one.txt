@@ -1,0 +1,8 @@
+A text file can be thought of as a sequence of lines
+• Before we can read the contents of the file we must
+tell Python which file we are going to work with and
+what we will be doing with the file
+• This is done with the open() func,on
+• open() returns a “file handle” - a variable used to
+perform opera,ons on the file
+– Kind of like “File -> Open” in a Word Pro
